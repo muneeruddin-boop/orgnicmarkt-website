@@ -3,9 +3,9 @@
 Read this first in every new chat or Claude Code session.
 
 ## What we're building
-A website for Orgnicmarkt: an online marketplace for organic everyday goods, from spices to textiles, bought directly from the producers who make them.
+A website for Orgnicmarkt: an online marketplace for organic spices and textiles, bought directly from the producers who make them.
 
-- **What we do:** customers order day-to-day organic products straight from manufacturers and producers. Every order invests in the communities behind those products and earns the customer Respect Points, which they can redeem when they visit the countries and communities their products come from.
+- **What we do:** customers order organic spices and textiles straight from manufacturers and producers. These are the only two categories for now; don't show or mention other product types on the site. Every order invests in the communities behind those products and earns the customer Respect Points, which they can redeem when they visit the countries and communities their products come from.
 - **Who it's for:** households who want their everyday shopping to do some good. They are health-conscious and environment-conscious, care about workers' rights and not harming the environment, and want to make a positive impact. Launching in Germany first, built to grow worldwide.
 - **What makes us different:**
   - One third of the profits (not revenue) goes back to producer communities as investment in energy infrastructure. The rest is reinvested in growing the platform and supply chain, so the impact grows with it. Always say "profits" on the site, never "sales" or "revenue".
